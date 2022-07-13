@@ -25,3 +25,6 @@
 # Typescript
 *.tsbuildinfo
 .vercel
+
+# Local Netlify folder
+.netlify
